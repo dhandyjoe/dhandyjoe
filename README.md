@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dhandyjoe
 - 👀 I’m interested in Android Developer
-- 🌱 I’m currently learning ...
+- 🌱 I'm a student at Satya Wacana Christian University
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : dhanjoenkp@gmail.com
 
 <!---
 dhandyjoe/dhandyjoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
