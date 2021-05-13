@@ -1,4 +1,7 @@
-![gif](https://64.media.tumblr.com/ddbd1bc29a57fd2b2b0c837745d77f3f/tumblr_nrmn7kLki51rcvimbo1_540.gif)
+![gif](https://64.media.tumblr.com/4ac57db98021ffd3a4e6717dee097802/aa44282323a3c36a-66/s500x750/727356ce2f1c9fdf07998fcd735c32d83e30f05d.gifv)
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 <a href="https://github.com/dhandyjoe">
   <img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dhandyjoe&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
