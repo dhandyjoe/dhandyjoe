@@ -2,15 +2,17 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
+<details>
+<summary><b>Activity 💻</b></summary>
+<br>
 <a href="https://github.com/dhandyjoe">
   <img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dhandyjoe&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
 </a>
 <a href="https://github.com/dhandyjoe">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dhandyjoe&layout=compact&theme=radical" />
 </a>
+</details>
 
-<br>
 <br>
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-181717?style=for-the-badge&logo=Kotlin&logoColor=white)
@@ -29,3 +31,4 @@
 
 [instagram]: https://www.instagram.com/dhandyjoenathan/
 [linkedin]: https://www.linkedin.com/in/dhandy-joe/
+
