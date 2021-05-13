@@ -1,3 +1,5 @@
+![gif](https://64.media.tumblr.com/ddbd1bc29a57fd2b2b0c837745d77f3f/tumblr_nrmn7kLki51rcvimbo1_540.gif)
+
 ![Kotlin](https://img.shields.io/badge/-Kotlin-181717?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-181717?style=for-the-badge&logo=Java)
 
@@ -7,14 +9,14 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dhandyjoe&layout=compact&theme=radical" />
 </a>
 
----
-
 ### Connect with me:
 
-[<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=flat-circle&logo=LinkedIn&logoColor=white&link=mailto:xxkyoko18@gmail.com)](https://https://www.instagram.com/dhandyjoenathan/)
+[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-circle&logo=Instagram&logoColor=white&link=mailto:xxkyoko18@gmail.com)](https://https://www.instagram.com/dhandyjoenathan/)
 
-<br>
+<br />
+
+---
 
 - 👋 Hi, Welcome to my project
 - 👀 I’m interested in Android Developer - Native
