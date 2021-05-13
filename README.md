@@ -28,10 +28,6 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 ### Connect with me:
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=flat-circle&logo=LinkedIn&logoColor=white&link=mailto:xxkyoko18@gmail.com)](https://https://www.instagram.com/dhandyjoenathan/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=flat-circle&logo=LinkedIn&logoColor=white&link=https://https://www.instagram.com/dhandyjoenathan/)](https://https://www.instagram.com/dhandyjoenathan/)
 [![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-circle&logo=Instagram&logoColor=white&link=mailto:xxkyoko18@gmail.com)](https://https://www.instagram.com/dhandyjoenathan/)
 
-
-
-[instagram]: https://www.instagram.com/dhandyjoenathan/
-[linkedin]: https://www.linkedin.com/in/dhandy-joe/
