@@ -1,4 +1,4 @@
-![gif](https://64.media.tumblr.com/4ac57db98021ffd3a4e6717dee097802/aa44282323a3c36a-66/s500x750/727356ce2f1c9fdf07998fcd735c32d83e30f05d.gifv)
+![gif](https://64.media.tumblr.com/b52ee81bd5d19dd3f2b70c3421dbd674/tumblr_p9yqzrd7v31wqfvrxo1_500.gifv)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
