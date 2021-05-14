@@ -19,7 +19,7 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 <br>
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-181717?style=for-the-badge&logo=Kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-181717?style=for-the-badge&logo=Kotlin)
 ![Java](https://img.shields.io/badge/-Java-181717?style=for-the-badge&logo=Java)
 ![Js](https://img.shields.io/badge/-Javascript-181717?style=for-the-badge&logo=Javascript)
 ![PHP](https://img.shields.io/badge/-PHP-181717?style=for-the-badge&logo=PHP)
@@ -28,5 +28,5 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 ### Connect with me:
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=flat-circle&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/dhandy-joe/)](https://www.linkedin.com/in/dhandy-joe/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/dhandy-joe/)](https://www.linkedin.com/in/dhandy-joe/)
 [![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-circle&logo=Instagram&logoColor=white&link=https://www.instagram.com/dhandyjoenathan/)](https://www.instagram.com/dhandyjoenathan/)
