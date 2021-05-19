@@ -4,6 +4,7 @@
 I'm a 20-year-old junior android developer from Indonesia, who loves open source. I mainly code in Kotlin and PHP, but I am always learning. I am currently working on a couple of open-source projects, which is a tool that can be used to share links across devices.
 
 For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
+
 <br>
 
 <details>
