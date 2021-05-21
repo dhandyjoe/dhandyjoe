@@ -26,7 +26,6 @@ For my programming projects, I usually only upload to Github once I make signifi
 ![PHP](https://img.shields.io/badge/-PHP-181717?style=for-the-badge&logo=PHP)
 ![Android](https://img.shields.io/badge/-Android-181717?style=for-the-badge&logo=Android)
 
-
 ### Connect with me:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/dhandy-joe/)](https://www.linkedin.com/in/dhandy-joe/)
