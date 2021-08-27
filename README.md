@@ -16,8 +16,6 @@ For my programming projects, I usually only upload to Github once I make signifi
 </p>
 
 
-<br>
-
 ### Tech Stack
 ![Kotlin](https://img.shields.io/badge/-Kotlin-181717?style=for-the-badge&logo=Kotlin)
 ![Java](https://img.shields.io/badge/-Java-181717?style=for-the-badge&logo=Java)
