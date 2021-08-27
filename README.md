@@ -7,16 +7,18 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 <br>
 
-<details>
-<summary><b>Activity 💻</b></summary>
-<br>
-<a href="https://github.com/dhandyjoe">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dhandyjoe&layout=compact&theme=radical" />
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</details>
+</p>
+
 
 <br>
 
+### Tech Stack
 ![Kotlin](https://img.shields.io/badge/-Kotlin-181717?style=for-the-badge&logo=Kotlin)
 ![Java](https://img.shields.io/badge/-Java-181717?style=for-the-badge&logo=Java)
 ![Js](https://img.shields.io/badge/-Javascript-181717?style=for-the-badge&logo=Javascript)
