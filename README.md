@@ -1,7 +1,7 @@
 ![gif](https://64.media.tumblr.com/b52ee81bd5d19dd3f2b70c3421dbd674/tumblr_p9yqzrd7v31wqfvrxo1_500.gifv)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm a 21-year-old junior android developer from Indonesia, who loves open source. I mainly code in Kotlin and PHP, but I am always learning. I am currently working on a couple of open-source projects, which is a tool that can be used to share links across devices.
+I'm a 21-year-old junior software engineer from Indonesia, who loves open source. I mainly code in Kotlin, but I am always learning. I am currently working on a couple of open-source projects, which is a tool that can be used to share links across devices.
 
 For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
 
