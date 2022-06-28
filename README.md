@@ -1,13 +1,13 @@
 ![gif](https://64.media.tumblr.com/b52ee81bd5d19dd3f2b70c3421dbd674/tumblr_p9yqzrd7v31wqfvrxo1_500.gifv)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" />
 I'm a 21-year-old junior software engineer from Indonesia, who loves open source. I mainly code in Kotlin, but I am always learning. I am currently working on a couple of open-source projects, which is a tool that can be used to share links across devices.
 
 For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
 
 <br>
 
-### Github Statistic
+### &#x1f4c8; Github Statistic
 <p align="left">
 <a href="https://github.com/dhandyjoe">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhandyjoe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -16,7 +16,7 @@ For my programming projects, I usually only upload to Github once I make signifi
 </p>
 
 
-### Tech Stack
+### 🔧 Tech Stack
 ![Kotlin](https://img.shields.io/badge/-Kotlin-181717?style=for-the-badge&logo=Kotlin)
 ![Java](https://img.shields.io/badge/-Java-181717?style=for-the-badge&logo=Java)
 ![Js](https://img.shields.io/badge/-Javascript-181717?style=for-the-badge&logo=Javascript)
