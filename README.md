@@ -25,5 +25,5 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 ### Connect with me:
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/dhandy-joe/)](https://www.linkedin.com/in/dhandy-joe/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/dhandy-joe/)](https://www.linkedin.com/in/dhandyjoenathan/)
 [![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-circle&logo=Instagram&logoColor=white&link=https://www.instagram.com/dhandyjoenathan/)](https://www.instagram.com/dhandyjoenathan/)
