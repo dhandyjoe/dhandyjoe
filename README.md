@@ -1,29 +1,69 @@
-![gif](https://64.media.tumblr.com/b52ee81bd5d19dd3f2b70c3421dbd674/tumblr_p9yqzrd7v31wqfvrxo1_500.gifv)
+<img src="./assets/keyboard.gif" alt="Typing on a keyboard" width="100%" />
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" />
-I'm a 21-year-old from Indonesia, who loves open source and intersted in quality engineer. I mainly code in Java, but I am always learning. 
+<h2>Hi there, I'm Dhandy Joenathan <img src="./assets/wave.gif" width="40" alt="" /></h2>
 
-For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
+<p><em>
+  <img src="./assets/bug.gif" width="26" alt="" /> Quality Engineer / SDET, hunting bugs with web UI & API test automation
+  <br />
+  <img src="./assets/robot.gif" width="26" alt="" /> Vibe coding with AI: automation, AI agents & MCP servers for QA
+  <br />
+  <img src="./assets/pin.gif" width="26" alt="" /> Based in Salatiga, Indonesia
+</em></p>
 
-<br>
+<a href="https://dhandyjoe.github.io"><img src="https://img.shields.io/badge/dhandyjoe.github.io-181717?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/dhandyjoe"><img src="https://img.shields.io/github/followers/dhandyjoe?label=follow&style=social" alt="GitHub followers" /></a>
 
-### &#x1f4c8; Github Statistic
-<p align="left">
-<a href="https://github.com/dhandyjoe">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhandyjoe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhandyjoe&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<br clear="all" />
 
+<img align="right" src="./assets/typing.gif" width="330" alt="Pixel dev typing on a laptop" />
 
-### 🔧 Tech Stack
-![Kotlin](https://img.shields.io/badge/-Kotlin-181717?style=for-the-badge&logo=Kotlin)
-![Java](https://img.shields.io/badge/-Java-181717?style=for-the-badge&logo=Java)
-![Js](https://img.shields.io/badge/-Javascript-181717?style=for-the-badge&logo=Javascript)
-![PHP](https://img.shields.io/badge/-PHP-181717?style=for-the-badge&logo=PHP)
-![Android](https://img.shields.io/badge/-Android-181717?style=for-the-badge&logo=Android)
+### <img src="./assets/terminal.gif" width="26" alt="" /> A little more about me
 
-### Connect with me:
+```typescript
+const dhandy = {
+  role: "Quality Engineer / SDET",
+  testing: ["Cypress", "Robot Framework", "Selenium"],
+  api: ["Postman", "Jest"],
+  code: ["TypeScript", "JavaScript", "Kotlin", "Java"],
+  tools: ["React", "Node.js", "Vite", "Firebase"],
+  ai: ["vibe coding", "AI agents", "MCP servers"],
+  focus: "building tools that make QA faster",
+};
+```
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/dhandy-joe/)](https://www.linkedin.com/in/dhandyjoenathan/)
-[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-circle&logo=Instagram&logoColor=white&link=https://www.instagram.com/dhandyjoenathan/)](https://www.instagram.com/dhandyjoenathan/)
+<br clear="all" />
+
+### <img src="./assets/rocket.gif" width="26" alt="" /> Things I've built
+
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| [**Casebook**](https://github.com/dhandyjoe/casebook) | Simple test case management: write test cases, run test runs with evidence, and export PDF reports.<br /><img src="https://img.shields.io/badge/🤖_built_by_AI-vibe_coding-8957e5?style=flat-square" alt="Built by AI with vibe coding" /> | React · TypeScript · Firebase |
+| [**Ravenhold Survivor**](https://github.com/dhandyjoe/ravenhold-survivor) | Browser survival game where every graphic is drawn in code. [▶ Play](https://dhandyjoe.github.io/ravenhold-survivor/)<br /><img src="https://img.shields.io/badge/🤖_built_by_AI-vibe_coding-8957e5?style=flat-square" alt="Built by AI with vibe coding" /> | Phaser · TypeScript · Vite |
+| [**POC Cypress**](https://github.com/dhandyjoe/POC-Cypress-KP) | Proof of concept for end-to-end web testing. | Cypress · JavaScript |
+| [**POC Robot Framework**](https://github.com/dhandyjoe/POC-Robotframework-Selenium-KP) | Proof of concept for keyword-driven UI automation. | Robot Framework · Selenium |
+
+### <img src="./assets/heart.gif" width="26" alt="" /> Let's connect
+
+<em><b>I love connecting with different people,</b> so if you want to say <b>hi</b>, I'd be happy to meet you!</em>
+
+<a href="https://www.linkedin.com/in/dhandyjoenathan/"><img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/dhandyjoenathan/"><img src="https://img.shields.io/badge/Instagram-181717?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://dhandyjoe.github.io"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+
+<details>
+<summary>GitHub stats</summary>
+<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+  <img src="./profile/stats.svg" alt="GitHub stats" height="165" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+  <img src="./profile/top-langs.svg" alt="Top languages" height="165" />
+</picture>
+</details>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+  <img src="./profile/snake.svg" alt="Snake eating my contribution graph" width="100%" />
+</picture>
